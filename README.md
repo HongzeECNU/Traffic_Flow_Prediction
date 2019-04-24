@@ -13,8 +13,9 @@ https://nbviewer.jupyter.org/github/HongzeECNU/traffic_flow_prediction/blob/mast
 https://nbviewer.jupyter.org/github/HongzeECNU/traffic_flow_prediction/blob/master/traffic_flow_prediction_steve_mse_15_github.ipynb
 
 # Requirement
--Python 3.7.0
--Keras 2.2.4
--Tensoflow 1.12.0
--Skit-Learn 0.20.2
--Statsmodels 0.9.0
+
+- Python 3.7.0
+- Keras 2.2.4
+- Tensoflow 1.12.0
+- Skit-Learn 0.20.2
+- Statsmodels 0.9.0

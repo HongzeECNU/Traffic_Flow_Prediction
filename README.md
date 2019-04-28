@@ -4,7 +4,7 @@ This is a code repository of the unpublished paper "**Lightweight traffic flow p
 
 It contains only the result part now, we will upload the rest of the code after the paper is published about two months later.
 
-In case, the Github can't successfully load the ipynb files, please click the following links:
+In case the Github can't successfully load the ipynb files, please click the following links:
 
 https://nbviewer.jupyter.org/github/HongzeECNU/traffic_flow_prediction/blob/master/traffic_flow_prediction_steve_mse_5_github.ipynb
 

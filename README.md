@@ -1,6 +1,6 @@
 # Traffic_Flow_Prediction
 
-This is a code repository of the unpublished paper "**Lightweigh traffic flow prediction base on Gated Recurrent Unit**".
+This is a code repository of the unpublished paper "**Lightweight traffic flow prediction base on Flattened architecture using Gated Recurrent Unit**".
 
 It contains only the result part now, we will upload the rest of the code after the paper is published about two months later.
 
